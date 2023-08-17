@@ -1,5 +1,6 @@
-# simple-todo-board-website
-kanban board website 
+# simple-todo-board-website using php
+
+kanban board website using php
 user view and admin view
 
 USER view 
